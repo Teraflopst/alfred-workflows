@@ -28,6 +28,16 @@
 
 ![Baidu CDN][baidu-cdn_shot]
 
+## 五笔查询
+
+[![Download][dl_btn]][wubi_wf]
+
+五笔编码查询。
+
+数据来源：[漢典](http://www.zdic.net/)、[百度词典](http://dict.baidu.com/)
+
+![五笔查询][wubi_shot]
+
 
 [dl_btn]: assets/btn_dl_gr.png "Download"
 
@@ -36,6 +46,9 @@
 
 [baidu_cdn_wf]: https://github.com/onestark/alfred-workflows/raw/master/downloads/Baidu-CDN.alfredworkflow
 [baidu-cdn_shot]: assets/baidu-cdn_shot.png
+
+[wubi_wf]: https://github.com/onestark/alfred-workflows/raw/master/downloads/Wubi.alfredworkflow
+[wubi_shot]: assets/wubi_shot.png
 
 [Alfred 3]: https://www.alfredapp.com/
 [Alfred Powerpack]: https://www.alfredapp.com/powerpack/
