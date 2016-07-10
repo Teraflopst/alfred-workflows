@@ -28,6 +28,7 @@
 
 ![Baidu CDN][baidu-cdn_shot]
 
+
 ## 五笔查询
 
 [![Download][dl_btn]][wubi_wf]
@@ -37,6 +38,15 @@
 数据来源：[漢典](http://www.zdic.net/)、[百度词典](http://dict.baidu.com/)
 
 ![五笔查询][wubi_shot]
+
+
+## Fav
+
+[![Download][dl_btn]][fav_wf]
+
+Quickly access your favorite files and folders.
+
+![Fav][fav_shot]
 
 
 [dl_btn]: assets/btn_dl_gr.png "Download"
@@ -49,6 +59,9 @@
 
 [wubi_wf]: https://github.com/onestark/alfred-workflows/raw/master/downloads/Wubi.alfredworkflow
 [wubi_shot]: assets/wubi_shot.png
+
+[fav_wf]: https://github.com/onestark/alfred-workflows/raw/master/downloads/Fav.alfredworkflow
+[fav_shot]: assets/fav_shot.png
 
 [Alfred 3]: https://www.alfredapp.com/
 [Alfred Powerpack]: https://www.alfredapp.com/powerpack/
