@@ -49,6 +49,23 @@ Quickly access your favorite files and folders.
 ![Fav][fav_shot]
 
 
+## RawGit
+
+[![Download][dl_btn]][rawgit_wf]
+
+[RawGit](https://rawgit.com/) serves raw files directly from GitHub with proper Content-Type headers.
+
+Support:
+
+- Gist Raw URL
+- GitHub Raw URL
+- GitHub Repository File URL
+
+RawGit [FAQ](https://github.com/rgrove/rawgit/wiki/Frequently-Asked-Questions)
+
+![RawGit][rawgit_shot]
+
+
 [dl_btn]: assets/btn_dl_gr.png "Download"
 
 [pm2.5_wf]: https://github.com/onestark/alfred-workflows/raw/master/downloads/PM2.5.alfredworkflow
@@ -62,6 +79,9 @@ Quickly access your favorite files and folders.
 
 [fav_wf]: https://github.com/onestark/alfred-workflows/raw/master/downloads/Fav.alfredworkflow
 [fav_shot]: assets/fav_shot.png
+
+[rawgit_wf]: https://github.com/onestark/alfred-workflows/raw/master/downloads/RawGit.alfredworkflow
+[rawgit_shot]: assets/rawgit_shot.png
 
 [Alfred 3]: https://www.alfredapp.com/
 [Alfred Powerpack]: https://www.alfredapp.com/powerpack/
