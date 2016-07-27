@@ -4,7 +4,9 @@
 
 **[Alfred 3] and [Alfred Powerpack] required.**
 
-**Check [AlfredWorkflow.com] and [Packal.org] for more workflows.**
+**Check for more workflows:**
+- [Packal]
+- [Alfred 2 Workflow List]
 
 
 ## PM2.5
@@ -85,5 +87,5 @@ RawGit [FAQ](https://github.com/rgrove/rawgit/wiki/Frequently-Asked-Questions)
 
 [Alfred 3]: https://www.alfredapp.com/
 [Alfred Powerpack]: https://www.alfredapp.com/powerpack/
-[AlfredWorkflow.com]:http://alfredworkflow.com/
-[Packal.org]: http://www.packal.org/
+[Alfred 2 Workflow List]:http://alfredworkflow.com/
+[Packal]: http://www.packal.org/
