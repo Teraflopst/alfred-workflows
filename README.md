@@ -1,6 +1,8 @@
 # Alfred Workflows
 
-> Alfred boosts your efficiency, Alfred Workflows mark your workflows powerful.
+> Alfred is a productivity app for Mac OS X, which boosts your efficiency with hotkeys, keywords, text expansion and more. 
+>
+> With Alfred's workflows, you can extend Alfred and get things done in your own way. Replace repetitive tasks with workflows, and boost your productivity.
 
 **[Alfred 3] and [Alfred Powerpack] required.**
 
