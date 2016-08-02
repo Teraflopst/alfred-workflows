@@ -17,7 +17,7 @@
 
 查找中国 [部分城市](http://pm25.in/) 的 PM 2.5。使用颜色直观地感受空气质量的变化。
 
-数据由 [pm25.in](http://pm25.in/) 和 [pm25s.com](http://www.pm25s.com/) 提供。
+数据来源：[pm25.in](http://pm25.in/)、[pm25s.com](http://www.pm25s.com/)
 
 ![PM2.5][pm2.5_shot]
 
