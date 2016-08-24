@@ -69,6 +69,30 @@ RawGit [FAQ](https://github.com/rgrove/rawgit/wiki/Frequently-Asked-Questions)
 
 ![RawGit][rawgit_shot]
 
+
+## ShadowsocksX Menu
+
+[![Download][dl_btn]][ssx-menu_wf]
+
+使用 Alfred 模拟点击系统 Menubar，快速执行 ShadowsocksX 各个设置菜单项。
+
+功能：
+
+- 快速定位/编辑用户规则文件（默认 `sse`）
+- 快速添加用户规则并自动更新（默认 `ssa`）
+- 列出并可快速执行各个设置菜单项（默认 `sss`）
+- 快速开启/停用 Shadowsocks
+
+使用：
+
+- 安装 ShadowsocksX 客户端
+- 在 `~/.ShadowsocksX/user-rule.txt` 中的末尾添加一行 `! myrules`，作为插入 rule 的识别位置
+
+附：可正常更新 PAC 的 [ShadowsocksX 版本](https://github.com/RobertYan/ShadowsocksX)
+
+![ShadowsocksX Menu][ssx-menu_shot]
+
+
 ## More...
 
 [dl_btn]: assets/btn_dl_gr.png "Download"
@@ -87,6 +111,9 @@ RawGit [FAQ](https://github.com/rgrove/rawgit/wiki/Frequently-Asked-Questions)
 
 [rawgit_wf]: https://github.com/onestark/alfred-workflows/raw/master/downloads/RawGit.alfredworkflow
 [rawgit_shot]: assets/rawgit_shot.png
+
+[ssx-menu_wf]: https://github.com/onestark/alfred-workflows/raw/master/downloads/ShadowsocksX-Menu.alfredworkflow
+[ssx-menu_shot]: assets/ssx-menu_shot.png
 
 [Alfred 3]: https://www.alfredapp.com/
 [Alfred Powerpack]: https://www.alfredapp.com/powerpack/
