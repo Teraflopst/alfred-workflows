@@ -90,6 +90,10 @@ RawGit [FAQ](https://github.com/rgrove/rawgit/wiki/Frequently-Asked-Questions)
 
 附：可正常更新 PAC 的 [ShadowsocksX 版本](https://github.com/RobertYan/ShadowsocksX)
 
+更新：
+- 2016-09-04  性能优化：提升模拟点击的速度
+
+
 ![ShadowsocksX Menu][ssx-menu_shot]
 
 
