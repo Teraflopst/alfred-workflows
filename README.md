@@ -22,17 +22,6 @@
 ![PM2.5][pm2.5_shot]
 
 
-## 百度 CDN
-
-[![Download][dl_btn]][baidu_cdn_wf]
-
-更新 CDN 条目数据到本地后，查找速度飞快。建议常用常更新。
-
-数据来源：[百度静态资源公共库](http://cdn.code.baidu.com/)
-
-![Baidu CDN][baidu-cdn_shot]
-
-
 ## 五笔查询
 
 [![Download][dl_btn]][wubi_wf]
@@ -51,23 +40,6 @@
 Quickly access your favorite files and folders.
 
 ![Fav][fav_shot]
-
-
-## RawGit
-
-[![Download][dl_btn]][rawgit_wf]
-
-[RawGit](https://rawgit.com/) serves raw files directly from GitHub with proper Content-Type headers.
-
-Support:
-
-- Gist Raw URL
-- GitHub Raw URL
-- GitHub Repository File URL
-
-RawGit [FAQ](https://github.com/rgrove/rawgit/wiki/Frequently-Asked-Questions)
-
-![RawGit][rawgit_shot]
 
 
 ## ShadowsocksX Menu
@@ -104,17 +76,11 @@ RawGit [FAQ](https://github.com/rgrove/rawgit/wiki/Frequently-Asked-Questions)
 [pm2.5_wf]: https://github.com/onestark/alfred-workflows/raw/master/downloads/PM2.5.alfredworkflow
 [pm2.5_shot]: assets/pm2.5_shot.png
 
-[baidu_cdn_wf]: https://github.com/onestark/alfred-workflows/raw/master/downloads/Baidu-CDN.alfredworkflow
-[baidu-cdn_shot]: assets/baidu-cdn_shot.png
-
 [wubi_wf]: https://github.com/onestark/alfred-workflows/raw/master/downloads/Wubi.alfredworkflow
 [wubi_shot]: assets/wubi_shot.png
 
 [fav_wf]: https://github.com/onestark/alfred-workflows/raw/master/downloads/Fav.alfredworkflow
 [fav_shot]: assets/fav_shot.png
-
-[rawgit_wf]: https://github.com/onestark/alfred-workflows/raw/master/downloads/RawGit.alfredworkflow
-[rawgit_shot]: assets/rawgit_shot.png
 
 [ssx-menu_wf]: https://github.com/onestark/alfred-workflows/raw/master/downloads/ShadowsocksX-Menu.alfredworkflow
 [ssx-menu_shot]: assets/ssx-menu_shot.png
@@ -123,3 +89,4 @@ RawGit [FAQ](https://github.com/rgrove/rawgit/wiki/Frequently-Asked-Questions)
 [Alfred Powerpack]: https://www.alfredapp.com/powerpack/
 [Alfred 2 Workflow List]:http://alfredworkflow.com/
 [Packal]: http://www.packal.org/
+
